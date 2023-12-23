@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialConsole", "SerialConsole\SerialConsole.csproj", "{C0EF35D0-8135-46CC-8A0B-B0B479157C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EF35D0-8135-46CC-8A0B-B0B479157C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EF35D0-8135-46CC-8A0B-B0B479157C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EF35D0-8135-46CC-8A0B-B0B479157C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EF35D0-8135-46CC-8A0B-B0B479157C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F7D9D7-466F-455C-8E38-F0A056E2D7FB}
+	EndGlobalSection
+EndGlobal

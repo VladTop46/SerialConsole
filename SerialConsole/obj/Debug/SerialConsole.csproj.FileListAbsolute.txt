@@ -1,0 +1,10 @@
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\bin\Debug\SerialConsole.exe.config
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\bin\Debug\SerialConsole.exe
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\bin\Debug\SerialConsole.pdb
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.Form1.resources
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.Properties.Resources.resources
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.exe
+D:\Visual Studio\Projects\SerialConsole\SerialConsole\obj\Debug\SerialConsole.pdb
